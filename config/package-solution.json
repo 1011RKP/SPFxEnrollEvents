@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "DrugDevelopment-LPD-Enroll-Events",
+    "id": "d6237e81-9514-49f4-9e77-9102dea89da6",
+    "version": "1.1.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/DrugDevelopment-LPD-Enroll-Events.sppkg"
+  }
+}
