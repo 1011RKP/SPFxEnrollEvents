@@ -23,7 +23,7 @@
     "@types/react-dom": "16.0.5",
     "@types/webpack-env": "1.13.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "office-ui-fabric-react": "5.124.0",
